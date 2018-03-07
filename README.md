@@ -1,18 +1,3 @@
-### Npm Typescript Example
+### TurkishTextSummurise_TS
 
-at first run 
-
-```
-npm i
-```
-
-to build run
-
-```
-npm build
-```	
-
-to run, run 
-```
-npm run run 
-```
+this is a typescript version of  [turkce-metin-ozetleme](https://github.com/teaddict/turkce-metin-ozetleme)
